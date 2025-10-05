@@ -1,1 +1,4 @@
 *.pdf
+temp_auto_push.bat
+*.csv.gitignore
+temp_interactive_push.bat
